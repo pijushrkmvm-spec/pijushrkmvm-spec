@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋, I'm Pijush Chakraborty  
 
-<!--
-**pijushrkmvm-spec/pijushrkmvm-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. Bioinformatics student at SPPU Pune  
+💻 Passionate about Python, bioinformatics tools, and workflow automation  
+🌱 Currently learning: file handling, regex, CSV writing, and web development basics  
+🔬 Interested in: sequence analysis
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+- **Programming:** Python (beginner → intermediate), HTML, CSS, JavaScript, PHP  
+- **Bioinformatics:** FASTA parsing, regex validation, GC content analysis  
+- **Automation:** WordPress API, Make.com workflows  
+- **Other Tools:** VS Code, GitHub, Google Sheets integration  
+
+---
+
+## 📂 Featured Projects
+- 🧬 [FASTA Analyzer](https://github.com/pijushrkmvm-spec/FASTA-Analyzer)  
+  Validates DNA sequences, calculates base composition, and GC content.  
+- 🌐 Personal Website  
+  [GERMIVERSE](https://biofix.kesug.com)
+
+---
+
+## 📖 Learning Journey
+I believe in **stepwise learning** — mastering Python basics before moving into advanced bioinformatics applications.  
+My GitHub is a reflection of my growth: from small practice scripts to real-world automation projects.  
+
+---
+
+## 🌟 Goals
+- Build bioinformatics tools that help researchers analyze sequences efficiently  
+- Create a strong portfolio of Python + biological projects  
+- Contribute to open-source projects in bioinformatics and web development  
+
+---
+
+## 📫 Connect with Me
+- GitHub: [pijushchakraborty](https://github.com/pijushrkmvm-spec)  
+- LinkedIn: (https://www.linkedin.com/in/pijush-chakraborty-biotech)
+
+---
+
+✨ Thanks for visiting my profile! Stay tuned for more projects as I grow my skills 🚀
