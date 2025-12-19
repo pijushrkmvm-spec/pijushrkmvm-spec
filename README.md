@@ -37,7 +37,7 @@ My GitHub is a reflection of my growth: from small practice scripts to real-worl
 ---
 
 ## 📫 Connect with Me
-- GitHub: [pijushchakraborty](https://github.com/pijushrkmvm-spec)  
+- GitHub: [pijushrkmvm-spec](https://github.com/pijushrkmvm-spec)  
 - LinkedIn: (https://www.linkedin.com/in/pijush-chakraborty-biotech)
 
 ---
