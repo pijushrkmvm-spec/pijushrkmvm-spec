@@ -2,13 +2,13 @@
 
 🎓 M.Sc. Bioinformatics student at SPPU Pune  
 💻 Passionate about Python, bioinformatics tools, and workflow automation  
-🌱 Currently learning: file handling, regex, CSV writing, and web development basics  
+🌱 Currently learning: file handling, regex, CSV writing  
 🔬 Interested in: sequence analysis
 
 ---
 
 ## 🚀 Skills & Tools
-- **Programming:** Python (beginner → intermediate), HTML, CSS, JavaScript, PHP  
+- **Programming:** Python (beginner → intermediate), Java (Learning) 
 - **Bioinformatics:** FASTA parsing, regex validation, GC content analysis  
 - **Automation:** WordPress API, Make.com workflows  
 - **Other Tools:** VS Code, GitHub, Google Sheets integration  
